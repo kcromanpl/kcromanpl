@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kcromanpl/kcromanpl/main/assets/banner.svg" alt="Roman KC — Lead Software Engineer, Engineering Manager, Ruby/Rails, AI & Data Science, terminal-style animated banner" width="800" />
+  <img src="https://raw.githubusercontent.com/kcromanpl/kcromanpl/main/assets/banner.svg" alt="Roman KC — Lead Engineer at FleetPanda, animated terminal banner" width="800" />
 </p>
 
 <h1 align="center">Roman KC</h1>
 
 <p align="center">
-  Lead Software Engineer · Engineering Manager · Ruby/Rails · AI &amp; Data Science · Nepal 🇳🇵
+  Lead Engineer · Engineering Manager · Ruby/Rails · AI &amp; Data Science · Nepal 🇳🇵
 </p>
 
 <p align="center">
@@ -16,27 +16,31 @@
 
 ---
 
-> "Stay Hungry, Stay Foolish."
+Software engineer and engineering leader with 6+ years building and scaling SaaS products end to end. I specialize in taking things from zero to one and building the teams that ship them. Most of my career has been at the intersection of engineering and product — turning vague ideas into working software, and building the processes and teams around them.
 
-Engineering Lead and Senior Software Engineer with 6+ years building SaaS products. Currently at **FleetPanda**, a US petroleum logistics software company — led the Dispatch Re-Architecture (Monolith → Pods), built the 3PL Petroleum Marketplace MVP solo, and founded the Data Science initiative (BOL-OCR model deployed to production).
+At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy. The platform has processed over a billion gallons of fuel transactions as of 2026, serving up to 500 active users across six product teams I built and lead. Previously Engineering Manager at **Bajra Technologies**, and Team Lead for **TruckSIS** (SmarterX / Republic Services) — retail logistics software used by Costco, Walmart, and Kroger.
 
-Previously Engineering Manager at **Bajra Technologies** (4 years), and Team Lead for **TruckSIS** (SmarterX / Republic Services) — logistics software used by Costco, Walmart, and Kroger.
+I care about clean systems, good engineering practices, and helping engineers grow.
 
 ## Stack
 
 | Area | Tools |
 |---|---|
-| Backend | Ruby · Rails · RabbitMQ · Sidekiq · Redis · RSpec · PostgreSQL |
-| Architecture | DDD · Event-Driven · Microservices (Pods) · CI/CD |
-| Frontend | Angular |
-| Data & AI | Python · OCR · Data Science · ML · Metabase |
+| Backend | Ruby · Rails · Python · Node.js (Express) · GraphQL |
+| Frontend | Angular · React.js · Vue.js · TypeScript · Tailwind CSS |
+| Databases | PostgreSQL · MySQL · MongoDB · Redis |
+| Cloud & DevOps | AWS (Lambda, ECS, EKS, S3, API Gateway) · Docker · Kubernetes · CI/CD |
+| ML / AI | TensorFlow · scikit-learn · OCR (Tesseract) · pandas · Agentic Workflows |
+| Messaging | RabbitMQ · Sidekiq |
 
 ## What I ship
 
-- Dispatch and logistics platforms for US petroleum operations
-- SaaS products from solo MVP to scaled team delivery
-- Engineering standards: code review, CI/CD, DDD, event-driven architecture
-- Data science initiatives and AI-assisted automation in production
+- Petroleum logistics platform processing **1B+ gallons** of fuel transactions
+- Online marketplace for fuel brokerage — built solo from concept to production
+- AI models for automated document processing (BOL-OCR) and executive reporting
+- Monolith → microservices re-architecture enabling independent pod-based delivery
+- Self-service portals for customers and operations staff
+- Engineering standards across the org: CI/CD, code review, DDD, incident response
 
 ## Open Source
 
