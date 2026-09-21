@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kcromanpl/kcromanpl/main/assets/banner.svg" alt="Roman KC — Lead Software Engineer, Engineering Manager, Ruby/Rails, AI & Data Science, terminal-style animated banner" width="800" />
+</p>
+
 <h1 align="center">Roman KC</h1>
 
 <p align="center">
