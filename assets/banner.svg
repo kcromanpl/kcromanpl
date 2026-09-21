@@ -1,0 +1,43 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window: roman@fleetpanda ~ whoami — Lead Software Engineer, Engineering Manager, Building petroleum logistics SaaS">
+  <defs>
+    <linearGradient id="winGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="798" height="198" rx="10" fill="url(#winGrad)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="798" height="34" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="1" y="24" width="798" height="11" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="400" y="22" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">roman@fleetpanda: ~</text>
+
+  <!-- prompt line -->
+  <text x="28" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
+    <tspan fill="#22d3ee">roman@fleetpanda</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan>
+  </text>
+
+  <!-- rotating response lines -->
+  <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
+    <tspan>Lead Software Engineer @ FleetPanda</tspan>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.33;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
+    <tspan>Engineering Manager · Team Lead</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.36;0.63;0.66;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
+    <tspan>Ruby/Rails · AI &amp; Data Science · Nepal</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.69;0.97;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- idle prompt with blinking cursor -->
+  <text x="28" y="158" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
+    <tspan fill="#22d3ee">roman@fleetpanda</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#7ee787">▍<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>
