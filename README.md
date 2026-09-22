@@ -53,7 +53,7 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## Skills
 
-| Area | |
+| | |
 |---|---|
 | Backend | Ruby · Rails · Python (FastAPI · Flask) · Node.js · NestJS · GraphQL · REST |
 | Frontend | React · Next.js · Angular · TypeScript · Tailwind CSS · shadcn/ui · Apollo Client |
