@@ -68,6 +68,8 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## What I ship
 
+*The green squares aren't here — private repos, org accounts, and client codebases don't photograph well. Production does.*
+
 ### FleetPanda · Lead Engineer
 
 - **Petroleum logistics platform** — 1B+ gallons of fuel transactions annually
