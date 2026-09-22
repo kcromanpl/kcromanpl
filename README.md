@@ -15,7 +15,6 @@
 </p>
 
 ---
-
 Software engineer and engineering leader with 6+ years building and scaling SaaS products end to end. I specialize in zero-to-one and building the teams that ship — most of my career at the intersection of engineering and product, turning vague ideas into working software.
 
 At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
@@ -26,15 +25,23 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## Skills
 
-*Some I know cold, some I've survived — every tool here has made it to production.*
+Ruby · Rails · Python at the core. *Some I know cold, some I've survived — every tool here has made it to production.*
 
 <table>
+  <colgroup>
+    <col width="110"/>
+    <col width="55"/>
+    <col width="55"/>
+    <col width="55"/>
+    <col width="55"/>
+    <col width="55"/>
+    <col width="55"/>
+  </colgroup>
   <tr>
     <td><strong>Backend</strong></td>
     <td align="center"><a href="https://www.ruby-lang.org"><img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby"/><br/><sub>Ruby</sub></a></td>
     <td align="center"><a href="https://rubyonrails.org"><img src="https://skillicons.dev/icons?i=rails" height="40" alt="Rails"/><br/><sub>Rails</sub></a></td>
     <td align="center"><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/><br/><sub>Python</sub></a></td>
-    <td align="center"><a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
     <td align="center"><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/><br/><sub>Node.js</sub></a></td>
     <td align="center"><a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS"/><br/><sub>NestJS</sub></a></td>
     <td align="center"><a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL"/><br/><sub>GraphQL</sub></a></td>
@@ -44,7 +51,7 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/><br/><sub>React</sub></a></td>
     <td align="center"><a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/><br/><sub>Next.js</sub></a></td>
     <td align="center"><a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular"/><br/><sub>Angular</sub></a></td>
-    <td align="center"><a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind"/><br/><sub>Tailwind</sub></a></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td><strong>Data</strong></td>
@@ -53,18 +60,21 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/><br/><sub>MongoDB</sub></a></td>
     <td align="center"><a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/><br/><sub>Redis</sub></a></td>
     <td align="center"><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka"/><br/><sub>Kafka</sub></a></td>
+    <td></td>
   </tr>
   <tr>
     <td><strong>Messaging</strong></td>
     <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
     <td colspan="5" valign="middle">
       <img src="https://img.shields.io/badge/Sidekiq-DC382D?style=flat-square&logo=sidekiq&logoColor=white" alt="Sidekiq"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" alt="Pusher"/>
-      <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" alt="AWS SQS"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" alt="Amazon SQS"/>
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps &amp; Observability</strong><br/><sub><em>hands-on usage</em></sub></td>
+    <td><strong>DevOps</strong></td>
     <td align="center"><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/><br/><sub>Docker</sub></a></td>
     <td align="center"><a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></a></td>
     <td align="center"><a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/><br/><sub>AWS</sub></a></td>
@@ -73,26 +83,35 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
   </tr>
   <tr>
-    <td></td>
+    <td><strong>Observability</strong></td>
     <td align="center"><a href="https://sentry.io"><img src="https://skillicons.dev/icons?i=sentry" height="40" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
     <td align="center"><a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></a></td>
-    <td colspan="4" valign="middle">
-      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+    <td align="center"><a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/><br/><sub>Grafana</sub></a></td>
+    <td colspan="3" valign="middle">
+      <img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=black" alt="OpenTelemetry"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
-      <img src="https://img.shields.io/badge/Coroot-1A1A2E?style=flat-square&logoColor=white" alt="Coroot"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Coroot-00C2A8?style=flat-square&logoColor=white" alt="Coroot"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Radar-007CFF?style=flat-square&logoColor=white" alt="Radar"/>
     </td>
   </tr>
   <tr>
     <td><strong>AI / ML</strong></td>
     <td colspan="6" valign="middle">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-      &nbsp; RAG · ChromaDB · NLP · Agentic Workflows
+      &nbsp;
+      <img src="https://img.shields.io/badge/RAG-6B46C1?style=flat-square" alt="RAG"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/NLP-2D3748?style=flat-square" alt="NLP"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/LLM-553C9A?style=flat-square" alt="LLM"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Agentic%20Workflows-1A202C?style=flat-square" alt="Agentic Workflows"/>
     </td>
-  </tr>
-  <tr>
-    <td><strong>Engineering</strong></td>
-    <td colspan="6" valign="middle">&nbsp; IC→EM · Zero-to-one · DDD · Multi-tenancy</td>
   </tr>
 </table>
 
