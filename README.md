@@ -25,29 +25,29 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## What I ship
 
-*A quiet graph doesn't mean quiet engineering. Private repos, client work, and team projects stay hidden — the impact doesn't.*
+*A quiet graph doesn't mean quiet engineering. Private repos, client work, and team projects stay hidden — the impact doesn't.* Here's what I've shipped:
 
 ### FleetPanda · Lead Engineer
 
-- **Petroleum logistics platform** — 1B+ gallons of fuel transactions annually
-- **Growth & sales tooling** — pipeline automation and reporting for the CEO's office
-- **Fuel marketplace** — online exchange for brokerage, built end to end
-- **Customer Portal + PWA** — self-service app for end customers, with mobile
-- **Admin Portal** — tenant management: subscriptions, API docs, support, Shopify
-- **LEM** — leased equipment tracking and lifecycle management
-- **Embedded Metabase** — tenant-authorized OLTP reporting inside the platform
-- **Degree Day** — propane delivery scheduler: predicts next drop from usage + temperature
+- **Petroleum Dispatch Platform** — Led engineering for Fleetpanda's core dispatch system. Decomposed large monolithic features into modular services and improved release and regression cycle efficiency by 5x.
+- **Growth & Sales Automation** — Built sales pipeline automation, analytics, and reporting systems to support the CEO's office in driving growth initiatives.
+- **Fuel Marketplace** — Designed and developed a fuel brokerage marketplace that streamlined connections between suppliers and buyers, improving operational efficiency.
+- **Customer Portal** — Built a self-service customer platform with a Progressive Web App experience, enabling customers to manage services seamlessly across devices.
+- **Admin Portal** — Developed a multi-tenant administration platform allowing customers to manage subscriptions, access API documentation, handle support workflows, integrate with Shopify, and purchase products.
+- **LEM (Leased Equipment Management)** — Built a dispatch module for tracking leased equipment, managing asset lifecycle, and improving operational visibility.
+- **Embedded Metabase Analytics** — Integrated tenant-authorized OLTP reporting within the dispatch platform using Metabase, enabling secure, self-service business insights.
+- **Degree Day** — Developed a propane delivery scheduling module that predicts upcoming deliveries using customer consumption patterns and average temperature data.
 
-### Bajra · IC → Engineering Manager
+### Bajra · Intern Co-Op → Engineering Manager
 
-Built three connected products for Republic Services' waste management operations, via SmarterX:
+Built three connected products for Republic Services' waste management operations, via Smarter Sorting/SmarterX:
 
-- **BOSS** _(Lead)_ — back-of-store waste processing at Costco, Walmart, Kroger
-- **BOTS** _(Lead)_ — back-of-truck hazardous waste pickup · Smarter Pickup won a **2022 Stevie Award** for Product Innovation
-- **PIP** _(Lead)_ — AI-based product classification platform
-- **PACE** — manual classification fallback for edge cases PIP couldn't resolve
-- **Engineering Dashboard** — team health and standards pulled from GitLab + JIRA; used in bi-weekly leads meetings
-- **Bajra Interview** _(Tech Lead)_ — hiring pipeline built 0→1: CV parsing, MCQ testing with cheat detection
+- **BOSS — Back Of Store System** _(Team Lead)_ — Waste processing tools at the back of the store for large retail chains like Costco, Walmart, and Kroger.
+- **BOTS — Back Of Truck System** _(Team Lead)_ — Back-of-truck system for hazardous waste pickup. Led day-to-day delivery across all three products. Shipped Smarter Pickup, winner of a **2022 Stevie Award** for Product Innovation for its hazardous-waste handling solution.
+- **PIP — Product Intelligence Platform** _(Team Lead)_ — AI-based product classification platform for intelligent waste product identification.
+- **PACE** — Worker-driven manual product configuration for cases where PIP's AI failed to classify products; mostly CRUD for product classification.
+- **Engineering Dashboard** — Engineering health, standard practices, and team performance pulled from GitLab and JIRA. Reports used in bi-weekly leads meetings, built on Metabase.
+- **Bajra Interview** _(Tech Lead)_ — Built Bajra's interview pipeline from 0→1: CV parsing and processing into the platform, MCQ testing with cheat detection.
 
 ## Open Source
 
