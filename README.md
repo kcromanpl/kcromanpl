@@ -26,7 +26,7 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## Skills
 
-*Jack of all trades — these are the stacks I've actually shipped with across production systems, not just tutorials.*
+*Jack of all trades — every tool below has seen production. Not a wishlist, not a tutorial.*
 
 <table>
   <tr>
@@ -68,13 +68,16 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
     <td align="center"><a href="https://sidekiq.org"><img src="https://cdn.simpleicons.org/sidekiq/DC382D" height="40" alt="Sidekiq"/><br/><sub>Sidekiq</sub></a></td>
     <td align="center"><a href="https://pusher.com"><img src="https://cdn.simpleicons.org/pusher/300D4F" height="40" alt="Pusher"/><br/><sub>Pusher</sub></a></td>
-    <td colspan="3" valign="middle">&nbsp; AWS SQS</td>
+    <td align="center"><a href="https://aws.amazon.com/sqs"><img src="https://cdn.simpleicons.org/amazonsqs/FF9900" height="40" alt="AWS SQS"/><br/><sub>AWS SQS</sub></a></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
     <td><strong>Observability</strong></td>
     <td align="center"><a href="https://sentry.io"><img src="https://skillicons.dev/icons?i=sentry" height="40" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
     <td align="center"><a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></a></td>
-    <td colspan="4" valign="middle">&nbsp; OpenTelemetry · Datadog · Coroot</td>
+    <td align="center"><a href="https://opentelemetry.io"><img src="https://cdn.simpleicons.org/opentelemetry/000000" height="40" alt="OpenTelemetry"/><br/><sub>OpenTelemetry</sub></a></td>
+    <td align="center"><a href="https://www.datadoghq.com"><img src="https://cdn.simpleicons.org/datadog/632CA6" height="40" alt="Datadog"/><br/><sub>Datadog</sub></a></td>
+    <td colspan="2" valign="middle">&nbsp; Coroot</td>
   </tr>
   <tr>
     <td><strong>AI / ML</strong></td>
