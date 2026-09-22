@@ -66,7 +66,9 @@ I care about clean systems, good engineering practices, and helping engineers gr
   <tr>
     <td><strong>Messaging</strong></td>
     <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
-    <td colspan="5" valign="middle">&nbsp; Sidekiq · Pusher · AWS SQS</td>
+    <td align="center"><a href="https://sidekiq.org"><img src="https://cdn.simpleicons.org/sidekiq/DC382D" height="40" alt="Sidekiq"/><br/><sub>Sidekiq</sub></a></td>
+    <td align="center"><a href="https://pusher.com"><img src="https://cdn.simpleicons.org/pusher/300D4F" height="40" alt="Pusher"/><br/><sub>Pusher</sub></a></td>
+    <td colspan="3" valign="middle">&nbsp; AWS SQS</td>
   </tr>
   <tr>
     <td><strong>Observability</strong></td>
