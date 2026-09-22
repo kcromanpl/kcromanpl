@@ -55,7 +55,16 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka"/><br/><sub>Kafka</sub></a></td>
   </tr>
   <tr>
-    <td><strong>DevOps</strong></td>
+    <td><strong>Messaging</strong></td>
+    <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
+    <td colspan="5" valign="middle">
+      <img src="https://img.shields.io/badge/Sidekiq-DC382D?style=flat-square&logo=sidekiq&logoColor=white" alt="Sidekiq"/>
+      <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" alt="Pusher"/>
+      <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" alt="AWS SQS"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps &amp; Observability</strong><br/><sub><em>hands-on usage</em></sub></td>
     <td align="center"><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/><br/><sub>Docker</sub></a></td>
     <td align="center"><a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></a></td>
     <td align="center"><a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/><br/><sub>AWS</sub></a></td>
@@ -64,25 +73,22 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
   </tr>
   <tr>
-    <td><strong>Messaging</strong></td>
-    <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
-    <td align="center"><a href="https://sidekiq.org"><img src="https://cdn.simpleicons.org/sidekiq/DC382D" height="40" alt="Sidekiq"/><br/><sub>Sidekiq</sub></a></td>
-    <td align="center"><a href="https://pusher.com"><img src="https://cdn.simpleicons.org/pusher/300D4F" height="40" alt="Pusher"/><br/><sub>Pusher</sub></a></td>
-    <td align="center"><a href="https://aws.amazon.com/sqs"><img src="https://cdn.simpleicons.org/amazonsqs/FF9900" height="40" alt="AWS SQS"/><br/><sub>AWS SQS</sub></a></td>
-    <td colspan="2"></td>
-  </tr>
-  <tr>
-    <td><strong>Observability</strong></td>
+    <td></td>
     <td align="center"><a href="https://sentry.io"><img src="https://skillicons.dev/icons?i=sentry" height="40" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
     <td align="center"><a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></a></td>
-    <td align="center"><a href="https://opentelemetry.io"><img src="https://cdn.simpleicons.org/opentelemetry/000000" height="40" alt="OpenTelemetry"/><br/><sub>OpenTelemetry</sub></a></td>
-    <td align="center"><a href="https://www.datadoghq.com"><img src="https://cdn.simpleicons.org/datadog/632CA6" height="40" alt="Datadog"/><br/><sub>Datadog</sub></a></td>
-    <td colspan="2" valign="middle">&nbsp; Coroot</td>
+    <td colspan="4" valign="middle">
+      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
+      <img src="https://img.shields.io/badge/Coroot-1A1A2E?style=flat-square&logoColor=white" alt="Coroot"/>
+    </td>
   </tr>
   <tr>
     <td><strong>AI / ML</strong></td>
-    <td align="center"><a href="https://openai.com"><img src="https://skillicons.dev/icons?i=openai" height="40" alt="OpenAI"/><br/><sub>OpenAI</sub></a></td>
-    <td colspan="5" valign="middle">&nbsp; LangChain · RAG · ChromaDB · NLP · Agentic Workflows</td>
+    <td colspan="6" valign="middle">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      &nbsp; RAG · ChromaDB · NLP · Agentic Workflows
+    </td>
   </tr>
   <tr>
     <td><strong>Engineering</strong></td>
