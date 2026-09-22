@@ -20,7 +20,7 @@ Software engineer and engineering leader with 6+ years building and scaling SaaS
 
 At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
 
-Before that, I grew from Intern Co- to Engineering Manager at **Bajra**, leading teams across multiple products and raising the bar for how we built and shipped.
+Before that, I grew from Intern Co-Op to Engineering Manager at **Bajra**, leading teams across multiple products and raising the bar for how we built and shipped.
 
 I care about clean systems, good engineering practices, and helping engineers grow.
 
@@ -61,14 +61,10 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 | | |
 |---|---|
-| Backend | Ruby · Rails · Python (FastAPI · Flask) · Node.js · NestJS · GraphQL · REST |
-| Frontend | React · Next.js · Angular · TypeScript · Tailwind CSS · shadcn/ui · Apollo Client |
-| Databases | PostgreSQL (PostGIS) · MySQL · MongoDB · Redis · OpenSearch |
-| Messaging & Events | Kafka · AWS SQS · Sidekiq · BullMQ · RabbitMQ · Pusher |
-| Cloud & DevOps | AWS (EKS · ECS · ECR · SQS · S3) · GCP (GKE · Cloud Build · Pub/Sub) · Docker · Kubernetes · Kustomize · Terraform · GitHub Actions |
+| Messaging & Events | Sidekiq · BullMQ · RabbitMQ · Pusher · AWS SQS |
 | Observability | OpenTelemetry · Sentry · Datadog · New Relic · Prometheus |
 | AI / ML | LangChain · RAG · ChromaDB · OpenAI · NLP · Agentic Workflows |
-| Engineering | Team building · IC→EM · DDD · Zero-to-one · Multi-tenancy |
+| Engineering | IC→EM · Zero-to-one · DDD · Multi-tenancy |
 
 ## What I ship
 
