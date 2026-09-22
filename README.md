@@ -5,7 +5,11 @@
 <h1 align="center">Roman KC</h1>
 
 <p align="center">
-  Lead Engineer · Engineering Manager · Ruby/Rails · AI &amp; Data Science · Nepal 🇳🇵
+  Senior/Lead Backend Engineer · Ruby/Rails · Node.js · AI &amp; Data Science
+</p>
+
+<p align="center">
+  📍 Based in Nepal — relocating to Munich, Germany
 </p>
 
 <p align="center">
@@ -19,13 +23,13 @@ Software engineer and engineering leader with 6+ years building and scaling SaaS
 
 At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
 
-Before that, I grew from Intern Co-Op to Engineering Manager at **Bajra**, leading teams across multiple products and raising the bar for how we built and shipped.
+At **Bajra**, I grew from Intern Co-Op to Engineering Manager , leading teams across multiple products and raising the bar for how we built and shipped.
 
 I care about clean systems, good engineering practices, and helping engineers grow.
 
 ## What I ship
 
-*A quiet graph doesn't mean quiet engineering. Private repos, client work, and team projects stay hidden — the impact doesn't.* Here's what I've shipped:
+*A quiet graph doesn't mean quiet engineering. Private repos, client work, and team projects stay hidden — the impact doesn't.* <br/> Here's what I've shipped:
 
 ### FleetPanda · Lead Engineer
 
@@ -51,7 +55,7 @@ Built three connected products for Republic Services' waste management operation
 
 ## Open Source
 
-Contributing since 2019, still active in 2026.
+Contributing since 2019
 
 - [endoflife.date](https://endoflife.date/) — Tracks end-of-life dates for software
 - [just-the-docs](https://just-the-docs.com/) — Clean Jekyll documentation theme
@@ -94,13 +98,13 @@ Ruby · Rails · Python at the core. *Some I know cold, some I've survived — e
     <td align="center"><a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/><br/><sub>MySQL</sub></a></td>
     <td align="center"><a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/><br/><sub>MongoDB</sub></a></td>
     <td align="center"><a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/><br/><sub>Redis</sub></a></td>
-    <td align="center"><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka"/><br/><sub>Kafka</sub></a></td>
-    <td></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
     <td><strong>Messaging</strong></td>
     <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
-    <td colspan="5" valign="middle">
+    <td align="center"><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka"/><br/><sub>Kafka</sub></a></td>
+    <td colspan="4" valign="middle">
       <img src="https://img.shields.io/badge/Sidekiq-DC382D?style=flat-square&logo=sidekiq&logoColor=white" alt="Sidekiq"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" alt="Pusher"/>
@@ -109,22 +113,34 @@ Ruby · Rails · Python at the core. *Some I know cold, some I've survived — e
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps</strong></td>
+    <td><strong>DevOps (Usage)</strong></td>
     <td align="center"><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/><br/><sub>Docker</sub></a></td>
     <td align="center"><a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></a></td>
     <td align="center"><a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/><br/><sub>AWS</sub></a></td>
-    <td align="center"><a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/><br/><sub>GCP</sub></a></td>
-    <td align="center"><a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/><br/><sub>Terraform</sub></a></td>
-    <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
+    <td colspan="3" valign="middle">
+      <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/SES-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white" alt="SES"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white" alt="CloudFront"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white" alt="Amplify"/>
+    </td>
   </tr>
   <tr>
-    <td><strong>Observability</strong></td>
+    <td><strong>Observability (Usage)</strong></td>
     <td align="center"><a href="https://sentry.io"><img src="https://skillicons.dev/icons?i=sentry" height="40" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
     <td align="center"><a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></a></td>
     <td align="center"><a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/><br/><sub>Grafana</sub></a></td>
     <td colspan="3" valign="middle">
-      <img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=black" alt="OpenTelemetry"/>
-      &nbsp;
       <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Coroot-00C2A8?style=flat-square&logoColor=white" alt="Coroot"/>
@@ -149,4 +165,3 @@ Ruby · Rails · Python at the core. *Some I know cold, some I've survived — e
     </td>
   </tr>
 </table>
-
