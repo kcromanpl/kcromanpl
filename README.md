@@ -4,8 +4,6 @@
 
 <h1 align="center">Roman KC</h1>
 
-<p align="center"><em>Rome wasn't built in a day, but Roman did it.</em></p>
-
 <p align="center">
   Lead Engineer · Engineering Manager · Ruby/Rails · AI &amp; Data Science · Nepal 🇳🇵
 </p>
@@ -26,16 +24,18 @@ Before that, I grew from IC to Engineering Manager at **Bajra**, leading teams a
 
 I care about clean systems, good engineering practices, and helping engineers grow.
 
-## Stack
+## Skills
 
-| Area | Tools |
+| Area | |
 |---|---|
-| Backend | Ruby · Rails · Python · Node.js (Express) · GraphQL |
-| Frontend | Angular · React.js · Vue.js · TypeScript · Tailwind CSS |
-| Databases | PostgreSQL · MySQL · MongoDB · Redis |
-| Cloud & DevOps | AWS (Lambda, ECS, EKS, S3, API Gateway) · Docker · Kubernetes · CI/CD |
-| ML / AI | TensorFlow · scikit-learn · OCR (Tesseract) · pandas · Agentic Workflows |
-| Messaging | RabbitMQ · Sidekiq |
+| Backend | Ruby · Rails · Python (FastAPI · Flask) · Node.js · NestJS · GraphQL · REST |
+| Frontend | React · Next.js · Angular · TypeScript · Tailwind CSS · shadcn/ui · Apollo Client |
+| Databases | PostgreSQL (PostGIS) · MySQL · MongoDB · Redis · OpenSearch |
+| Messaging & Events | Kafka · AWS SQS · Sidekiq · BullMQ · RabbitMQ · Pusher |
+| Cloud & DevOps | AWS (EKS · ECS · ECR · SQS · S3) · GCP (GKE · Cloud Build · Pub/Sub) · Docker · Kubernetes · Kustomize · Terraform · GitHub Actions |
+| Observability | OpenTelemetry · Sentry · Datadog · New Relic · Prometheus |
+| AI / ML | LangChain · RAG · ChromaDB · OpenAI · NLP · Agentic Workflows |
+| Engineering | Team building · IC→EM · DDD · Zero-to-one · Multi-tenancy |
 
 ## What I ship
 
