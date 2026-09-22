@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kcromanpl/kcromanpl/main/assets/banner.svg" alt="Roman KC — Lead Engineer at FleetPanda, animated terminal banner" width="800" />
+  <img src="https://raw.githubusercontent.com/kcromanpl/kcromanpl/main/assets/banner.svg" alt="Roman KC — roman@buildsrome terminal banner" width="800" />
 </p>
 
 <h1 align="center">Roman KC</h1>
