@@ -16,6 +16,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,typescript,nodejs,nestjs,react,nextjs,angular,tailwind,graphql,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,gcp,terraform,github&perline=11" alt="Tech skills" />
+</p>
+
+---
+
 Software engineer and engineering leader with 6+ years building and scaling SaaS products end to end. I specialize in zero-to-one and building the teams that ship — most of my career at the intersection of engineering and product, turning vague ideas into working software.
 
 At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
