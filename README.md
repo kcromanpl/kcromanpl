@@ -26,6 +26,8 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## Skills
 
+*Jack of all trades — these are the stacks I've actually shipped with across production systems, not just tutorials.*
+
 <table>
   <tr>
     <td><strong>Backend</strong></td>
@@ -62,6 +64,13 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
   </tr>
 </table>
+
+| | |
+|---|---|
+| Messaging | Sidekiq · BullMQ · RabbitMQ · Pusher · AWS SQS |
+| Observability | OpenTelemetry · Sentry · Datadog · New Relic · Prometheus |
+| AI / ML | LangChain · RAG · ChromaDB · OpenAI · NLP · Agentic Workflows |
+| Engineering | IC→EM · Zero-to-one · DDD · Multi-tenancy |
 
 ## What I ship
 
