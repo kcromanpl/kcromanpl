@@ -4,6 +4,8 @@
 
 <h1 align="center">Roman KC</h1>
 
+<p align="center"><em>Rome wasn't built in a day, but Roman did it.</em></p>
+
 <p align="center">
   Lead Engineer · Engineering Manager · Ruby/Rails · AI &amp; Data Science · Nepal 🇳🇵
 </p>
