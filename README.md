@@ -26,8 +26,9 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## Skills
 
-<table align="center">
+<table>
   <tr>
+    <td><strong>Backend</strong></td>
     <td align="center"><a href="https://www.ruby-lang.org"><img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby"/><br/><sub>Ruby</sub></a></td>
     <td align="center"><a href="https://rubyonrails.org"><img src="https://skillicons.dev/icons?i=rails" height="40" alt="Rails"/><br/><sub>Rails</sub></a></td>
     <td align="center"><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/><br/><sub>Python</sub></a></td>
@@ -37,12 +38,14 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL"/><br/><sub>GraphQL</sub></a></td>
   </tr>
   <tr>
+    <td><strong>Frontend</strong></td>
     <td align="center"><a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/><br/><sub>React</sub></a></td>
     <td align="center"><a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/><br/><sub>Next.js</sub></a></td>
     <td align="center"><a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular"/><br/><sub>Angular</sub></a></td>
     <td align="center"><a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind"/><br/><sub>Tailwind</sub></a></td>
   </tr>
   <tr>
+    <td><strong>Data</strong></td>
     <td align="center"><a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></a></td>
     <td align="center"><a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/><br/><sub>MySQL</sub></a></td>
     <td align="center"><a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/><br/><sub>MongoDB</sub></a></td>
@@ -50,6 +53,7 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka"/><br/><sub>Kafka</sub></a></td>
   </tr>
   <tr>
+    <td><strong>DevOps</strong></td>
     <td align="center"><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/><br/><sub>Docker</sub></a></td>
     <td align="center"><a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></a></td>
     <td align="center"><a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/><br/><sub>AWS</sub></a></td>
@@ -58,13 +62,6 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
   </tr>
 </table>
-
-| | |
-|---|---|
-| Messaging & Events | Sidekiq · BullMQ · RabbitMQ · Pusher · AWS SQS |
-| Observability | OpenTelemetry · Sentry · Datadog · New Relic · Prometheus |
-| AI / ML | LangChain · RAG · ChromaDB · OpenAI · NLP · Agentic Workflows |
-| Engineering | IC→EM · Zero-to-one · DDD · Multi-tenancy |
 
 ## What I ship
 
