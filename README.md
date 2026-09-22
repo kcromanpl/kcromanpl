@@ -26,7 +26,7 @@ I care about clean systems, good engineering practices, and helping engineers gr
 
 ## Skills
 
-*Jack of all trades — every tool below has seen production. Not a wishlist, not a tutorial.*
+*Some I know cold, some I've survived — every tool here has made it to production.*
 
 <table>
   <tr>
