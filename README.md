@@ -23,6 +23,41 @@ Before that, I grew from Intern Co-Op to Engineering Manager at **Bajra**, leadi
 
 I care about clean systems, good engineering practices, and helping engineers grow.
 
+## What I ship
+
+*A quiet graph doesn't mean quiet engineering. Private repos, client work, and team projects stay hidden — the impact doesn't.*
+
+### FleetPanda · Lead Engineer
+
+- **Petroleum logistics platform** — 1B+ gallons of fuel transactions annually
+- **Growth & sales tooling** — pipeline automation and reporting for the CEO's office
+- **Fuel marketplace** — online exchange for brokerage, built end to end
+- **Customer Portal + PWA** — self-service app for end customers, with mobile
+- **Admin Portal** — tenant management: subscriptions, API docs, support, Shopify
+- **LEM** — leased equipment tracking and lifecycle management
+- **Embedded Metabase** — tenant-authorized OLTP reporting inside the platform
+- **Degree Day** — propane delivery scheduler: predicts next drop from usage + temperature
+
+### Bajra · IC → Engineering Manager
+
+Built three connected products for Republic Services' waste management operations, via SmarterX:
+
+- **BOSS** _(Lead)_ — back-of-store waste processing at Costco, Walmart, Kroger
+- **BOTS** _(Lead)_ — back-of-truck hazardous waste pickup · Smarter Pickup won a **2022 Stevie Award** for Product Innovation
+- **PIP** _(Lead)_ — AI-based product classification platform
+- **PACE** — manual classification fallback for edge cases PIP couldn't resolve
+- **Engineering Dashboard** — team health and standards pulled from GitLab + JIRA; used in bi-weekly leads meetings
+- **Bajra Interview** _(Tech Lead)_ — hiring pipeline built 0→1: CV parsing, MCQ testing with cheat detection
+
+## Open Source
+
+Contributing since 2019, still active in 2026.
+
+- [endoflife.date](https://endoflife.date/) — Tracks end-of-life dates for software
+- [just-the-docs](https://just-the-docs.com/) — Clean Jekyll documentation theme
+- [24pullrequests.com](https://24pullrequests.com/) — Annual open source giving campaign
+
+
 ## Skills
 
 Ruby · Rails · Python at the core. *Some I know cold, some I've survived — every tool here has made it to production.*
@@ -115,40 +150,3 @@ Ruby · Rails · Python at the core. *Some I know cold, some I've survived — e
   </tr>
 </table>
 
-## What I ship
-
-*The green squares aren't here — private repos, org accounts, and client codebases don't photograph well. Production does.*
-
-### FleetPanda · Lead Engineer
-
-- **Petroleum logistics platform** — 1B+ gallons of fuel transactions annually
-- **Growth & sales tooling** — pipeline automation and reporting for the CEO's office
-- **Fuel marketplace** — online exchange for brokerage, built end to end
-- **Customer Portal + PWA** — self-service app for end customers, with mobile
-- **Admin Portal** — tenant management: subscriptions, API docs, support, Shopify
-- **LEM** — leased equipment tracking and lifecycle management
-- **Embedded Metabase** — tenant-authorized OLTP reporting inside the platform
-- **Degree Day** — propane delivery scheduler: predicts next drop from usage + temperature
-
-### Bajra · IC → Engineering Manager
-
-Built three connected products for Republic Services' waste management operations, via SmarterX:
-
-- **BOSS** _(Lead)_ — back-of-store waste processing at Costco, Walmart, Kroger
-- **BOTS** _(Lead)_ — back-of-truck hazardous waste pickup · Smarter Pickup won a **2022 Stevie Award** for Product Innovation
-- **PIP** _(Lead)_ — AI-based product classification platform
-- **PACE** — manual classification fallback for edge cases PIP couldn't resolve
-- **Engineering Dashboard** — team health and standards pulled from GitLab + JIRA; used in bi-weekly leads meetings
-- **Bajra Interview** _(Tech Lead)_ — hiring pipeline built 0→1: CV parsing, MCQ testing with cheat detection
-
-## Open Source
-
-Contributing since 2019, still active in 2026.
-
-- [endoflife.date](https://endoflife.date/) — Tracks end-of-life dates for software
-- [just-the-docs](https://just-the-docs.com/) — Clean Jekyll documentation theme
-- [24pullrequests.com](https://24pullrequests.com/) — Annual open source giving campaign
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/kcromanpl) · [Email](mailto:kcromanpl@gmail.com)
