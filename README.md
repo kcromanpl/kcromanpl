@@ -63,14 +63,27 @@ I care about clean systems, good engineering practices, and helping engineers gr
     <td align="center"><a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/><br/><sub>Terraform</sub></a></td>
     <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
   </tr>
+  <tr>
+    <td><strong>Messaging</strong></td>
+    <td align="center"><a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></a></td>
+    <td colspan="5" valign="middle">&nbsp; Sidekiq · BullMQ · Pusher · AWS SQS · Kafka</td>
+  </tr>
+  <tr>
+    <td><strong>Observability</strong></td>
+    <td align="center"><a href="https://sentry.io"><img src="https://skillicons.dev/icons?i=sentry" height="40" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
+    <td align="center"><a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></a></td>
+    <td colspan="4" valign="middle">&nbsp; OpenTelemetry · Datadog · New Relic</td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML</strong></td>
+    <td align="center"><a href="https://openai.com"><img src="https://skillicons.dev/icons?i=openai" height="40" alt="OpenAI"/><br/><sub>OpenAI</sub></a></td>
+    <td colspan="5" valign="middle">&nbsp; LangChain · RAG · ChromaDB · NLP · Agentic Workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td colspan="6" valign="middle">&nbsp; IC→EM · Zero-to-one · DDD · Multi-tenancy</td>
+  </tr>
 </table>
-
-| | |
-|---|---|
-| Messaging | Sidekiq · BullMQ · RabbitMQ · Pusher · AWS SQS |
-| Observability | OpenTelemetry · Sentry · Datadog · New Relic · Prometheus |
-| AI / ML | LangChain · RAG · ChromaDB · OpenAI · NLP · Agentic Workflows |
-| Engineering | IC→EM · Zero-to-one · DDD · Multi-tenancy |
 
 ## What I ship
 
