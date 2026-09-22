@@ -16,6 +16,16 @@
 
 ---
 
+Software engineer and engineering leader with 6+ years building and scaling SaaS products end to end. I specialize in zero-to-one and building the teams that ship — most of my career at the intersection of engineering and product, turning vague ideas into working software.
+
+At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
+
+Before that, I grew from Intern Co- to Engineering Manager at **Bajra**, leading teams across multiple products and raising the bar for how we built and shipped.
+
+I care about clean systems, good engineering practices, and helping engineers grow.
+
+## Skills
+
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.ruby-lang.org"><img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby"/><br/><sub>Ruby</sub></a></td>
@@ -48,18 +58,6 @@
     <td align="center"><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
   </tr>
 </table>
-
----
-
-Software engineer and engineering leader with 6+ years building and scaling SaaS products end to end. I specialize in zero-to-one and building the teams that ship — most of my career at the intersection of engineering and product, turning vague ideas into working software.
-
-At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
-
-Before that, I grew from IC to Engineering Manager at **Bajra**, leading teams across multiple products and raising the bar for how we built and shipped.
-
-I care about clean systems, good engineering practices, and helping engineers grow.
-
-## Skills
 
 | | |
 |---|---|
