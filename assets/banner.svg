@@ -1,11 +1,21 @@
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window: roman@buildsrome ~ whoami — Lead Engineer at FleetPanda, Ex Engineering Manager at Bajra, Building SaaS from zero to one, Rome wasn't built in a day but Roman did it">
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal: roman@buildsrome ~ whoami — Rome wasn't built in a day, but Roman did it.">
   <defs>
     <linearGradient id="winGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#161b22"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
+    <!-- clip reveals " whoami" from left as if typed -->
+    <clipPath id="typeClip">
+      <rect x="219" y="55" height="22">
+        <animate attributeName="width"
+          values="0;0;68;68;68;68;0;0"
+          keyTimes="0;0.08;0.22;0.30;0.78;0.88;0.95;1"
+          dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
+  <!-- window chrome -->
   <rect x="1" y="1" width="798" height="198" rx="10" fill="url(#winGrad)" stroke="#30363d" stroke-width="1"/>
   <rect x="1" y="1" width="798" height="34" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <rect x="1" y="24" width="798" height="11" fill="#161b22"/>
@@ -14,28 +24,34 @@
   <circle cx="64" cy="18" r="6" fill="#27c93f"/>
   <text x="400" y="22" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">roman@buildsrome: ~</text>
 
+  <!-- prompt prefix (static) -->
   <text x="28" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    <tspan fill="#22d3ee">roman@buildsrome</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#c9d1d9"> whoami</tspan>
+    <tspan fill="#22d3ee">roman@buildsrome</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan>
   </text>
 
-  <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
-    <tspan>Lead Engineer @ FleetPanda</tspan>
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.025;0.225;0.25;1" dur="12s" repeatCount="indefinite"/>
+  <!-- " whoami" typed in via clip -->
+  <g clip-path="url(#typeClip)">
+    <text x="219" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#c9d1d9"> whoami</text>
+  </g>
+
+  <!-- cursor on prompt line: blinks while typing, disappears when output shows -->
+  <text x="219" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#7ee787">
+    <animate attributeName="x"
+      values="219;219;229;238;248;258;267;277;287;287;287;287;219;219"
+      keyTimes="0;0.08;0.10;0.12;0.14;0.16;0.18;0.20;0.22;0.30;0.78;0.88;0.95;1"
+      dur="10s" repeatCount="indefinite"/>
+    ▍<animate attributeName="opacity" values="1;1;1;1;1;1;1;1;0;0;0;0;1;1" keyTimes="0;0.08;0.10;0.12;0.14;0.16;0.18;0.20;0.22;0.30;0.78;0.88;0.95;1" dur="10s" repeatCount="indefinite"/>
   </text>
-  <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
-    <tspan>Ex Engineering Manager · Bajra Technologies</tspan>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.275;0.475;0.5;1" dur="12s" repeatCount="indefinite"/>
-  </text>
-  <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7ee787">
-    <tspan>Building SaaS from zero to one</tspan>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.525;0.725;0.75;1" dur="12s" repeatCount="indefinite"/>
-  </text>
+
+  <!-- output: Rome tagline -->
   <text x="28" y="112" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#e3b341">
-    <tspan>Rome wasn't built in a day, but Roman did it.</tspan>
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.775;0.975;1" dur="12s" repeatCount="indefinite"/>
+    Rome wasn't built in a day, but Roman did it.
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.28;0.82;0.90;1" dur="10s" repeatCount="indefinite"/>
   </text>
 
+  <!-- next prompt + blinking cursor (appears after output) -->
   <text x="28" y="158" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    <tspan fill="#22d3ee">roman@buildsrome</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#7ee787">▍<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/></tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28;0.32;0.82;0.90;1" dur="10s" repeatCount="indefinite"/>
+    <tspan fill="#22d3ee">roman@buildsrome</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#7ee787">▍<animate attributeName="opacity" values="1;0;0;1;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/></tspan>
   </text>
 </svg>
