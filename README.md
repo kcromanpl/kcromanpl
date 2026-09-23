@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  📍 Based in Nepal — relocating to Munich, Germany
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/kcromanpl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kcromanpl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/kcromanpl"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,7 +19,7 @@ Software engineer and engineering leader with 6+ years building and scaling SaaS
 
 At **FleetPanda**, I work directly with the CEO on growth, architecture, and data strategy.
 
-At **Bajra**, I grew from Intern Co-Op to Engineering Manager , leading teams across multiple products and raising the bar for how we built and shipped.
+At **Bajra**, I grew from Intern Co-Op to Engineering Manager, leading teams across multiple products and raising the bar for how we built and shipped.
 
 I care about clean systems, good engineering practices, and helping engineers grow.
 
@@ -34,6 +30,7 @@ I care about clean systems, good engineering practices, and helping engineers gr
 ### FleetPanda · Lead Engineer
 
 - **Petroleum Dispatch Platform** — Led engineering for Fleetpanda's core dispatch system. Decomposed large monolithic features into modular services and improved release and regression cycle efficiency by 5x.
+- **Customer Engineering** — Lead and scale the Customer Engineering team, owning day-to-day customer calls and operations. Own integration strategy for new customer go-lives across the pods, including forward-deployed engineering and third-party integration work.
 - **Growth & Sales Automation** — Built sales pipeline automation, analytics, and reporting systems to support the CEO's office in driving growth initiatives.
 - **Fuel Marketplace** — Designed and developed a fuel brokerage marketplace that streamlined connections between suppliers and buyers, improving operational efficiency.
 - **Customer Portal** — Built a self-service customer platform with a Progressive Web App experience, enabling customers to manage services seamlessly across devices.
@@ -41,6 +38,11 @@ I care about clean systems, good engineering practices, and helping engineers gr
 - **LEM (Leased Equipment Management)** — Built a dispatch module for tracking leased equipment, managing asset lifecycle, and improving operational visibility.
 - **Embedded Metabase Analytics** — Integrated tenant-authorized OLTP reporting within the dispatch platform using Metabase, enabling secure, self-service business insights.
 - **Degree Day** — Developed a propane delivery scheduling module that predicts upcoming deliveries using customer consumption patterns and average temperature data.
+
+### TheAakarTech · Personal Projects
+
+- **Tululu** — Tululu is a mass Call/SMS/WhatsApp messaging platform designed for use cases such as events, elections, and e-commerce campaigns, with strong market potential.Created the documentation, architecture design, and deployment workflow entirely with Claude. This is a fully functional application deployed to production, including a React Native mobile app - built as a fun weekend side project.
+- **AakarSaloon** — A salon appointment booking, management, and scheduling platform designed for salons and beauty parlors. While the application is simple, the idea was driven by a market opportunity identified during my time in the US. The platform features calendar-based scheduling, integrated payments through eSewa, Khalti, and Stripe, along with support for credit card hardware. The documentation, architecture design, web/mobile applications, and deployment workflow were all built using Claude.
 
 ### Bajra · Intern Co-Op → Engineering Manager
 
@@ -55,11 +57,14 @@ Built three connected products for Republic Services' waste management operation
 
 ## Open Source
 
-Contributing since 2019
-
-- [endoflife.date](https://endoflife.date/) — Tracks end-of-life dates for software
-- [just-the-docs](https://just-the-docs.com/) — Clean Jekyll documentation theme
-- [24pullrequests.com](https://24pullrequests.com/) — Annual open source giving campaign
+- **[endoflife.date](https://endoflife.date/)**
+  - [Handle Ctrl+K to focus search input (#4398, merged)](https://github.com/endoflife-date/endoflife.date/pull/4398)
+- **[just-the-docs](https://just-the-docs.com/)**
+  - [Add configurable keyboard shortcut to focus search (#1411, merged)](https://github.com/just-the-docs/just-the-docs/pull/1411)
+- **[24pullrequests.com](https://24pullrequests.com/)**
+  - [Fix duplicate projects + add test coverage for languages controller (#4127, merged)](https://github.com/24pullrequests/24pullrequests/pull/4127)
+  - [Update Rubocop lint config using mry (#4130, merged)](https://github.com/24pullrequests/24pullrequests/pull/4130)
+  - [Add Docker-based test suite instructions (#4129, merged)](https://github.com/24pullrequests/24pullrequests/pull/4129)
 
 
 ## Skills
@@ -149,19 +154,21 @@ Ruby · Rails · Python at the core. *Some I know cold, some I've survived — e
     </td>
   </tr>
   <tr>
-    <td><strong>AI / ML</strong></td>
+    <td><strong>AI / ML (Usage)</strong></td>
     <td colspan="6" valign="middle">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LLM%20Document%20Extraction-553C9A?style=flat-square" alt="LLM Document Extraction"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/RAG-6B46C1?style=flat-square" alt="RAG"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/NLP-2D3748?style=flat-square" alt="NLP"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/LLM-553C9A?style=flat-square" alt="LLM"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Agentic%20Workflows-1A202C?style=flat-square" alt="Agentic Workflows"/>
+      <img src="https://img.shields.io/badge/Agentic%20Coding-1A202C?style=flat-square" alt="Agentic Coding"/>
     </td>
   </tr>
 </table>
+
+### Applied AI / ML
+
+- **BOL-OCR** — Production document-extraction pipeline for bills of lading: a vision/OCR model extracts raw text and layout, an LLM stage structures it into validated fields. Deployed at FleetPanda for driver and executive reporting.
+- **Speaker Identification (Master's Thesis)** — Speaker identification on Nepalese parliamentary proceedings using WavLM embeddings with a Conformer encoder and pooling-based classification. School of Mathematical Sciences, IoST — Tribhuvan University.
+- **AI-assisted engineering** — Day-to-day use of agentic coding tools (Claude Code, GitHub Copilot, Codex) for multi-file changes, refactors, and scaffolding, applying AI directly to how software gets built rather than only to what it produces.
